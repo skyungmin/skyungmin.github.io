@@ -2,7 +2,7 @@
   .row::after { content:""; clear:both; display:table; } 
   [class*="col-"] { float:left; padding:10px; }
   section { background-color:#FAEBFF; }
-   float1 {float:left;}
+   .float1 {float:left;}
   .imageOver::after {content:""; clear:both; display:table; }
   .bdcolor {border:1px solid gray;}
   .header, .footer { background-color:lightgray; color:dark; padding:10px; }
