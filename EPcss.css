@@ -7,15 +7,15 @@
   .bdcolor {border:1px solid gray;}
   .header, .footer { background-color:#c59581; color:dark; padding:10px; }
   .menu ul, .banner ul { list-style-type:none; }
-  .menu li { background-color:gray; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px gray; }
+  .menu li { background-color:#c59581; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px black; }
   .menu li hover { background-color:white; }
   .banner li { border:2px soikd black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px lightgray; }
   .banner li img { width:30%; vertical-align:middle; }
   ul.char { list-style:none; }
   ul.char li:before { content:"*"; padding-right:0px; color:gray; }
   @media only screen and(max-width:768px) { [class*="col-"] {width:100%; }}
-  a:link {  color:lightgray; background-color:transparent; text-decoration:none;}
-  a:visited {  color:white; background-color:transparent; text-decoration:none;}
+  a:link {  color:white; background-color:transparent; text-decoration:none;}
+  a:visited {  color:#753e3e; background-color:transparent; text-decoration:none;}
   a:hover {  color:lightgray; background-color:transparent; text-decoration:underline;}
   a:active {  color:gray; background-color:transparent; text-decoration:none;}
 /* for mobile */
