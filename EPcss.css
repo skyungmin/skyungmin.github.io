@@ -1,7 +1,7 @@
   * { box-sizing:border-box; padding:0; margin:0; }
   .row::after { content:""; clear:both; display:table; } 
   [class*="col-"] { float:left; padding:10px; }
-  section { background-color:#FAEBFF; }
+  section { background-color:#b5887ba6; }
    .float1 {float:left;}
   .imageOver::after {content:""; clear:both; display:table; }
   .bdcolor {border:1px solid gray;}
