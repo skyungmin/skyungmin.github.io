@@ -18,6 +18,12 @@
   a:visited {  color:#753e3e; background-color:transparent; text-decoration:none;}
   a:hover {  color:#b72525; background-color:transparent; text-decoration:underline;}
   a:active {  color:gray; background-color:transparent; text-decoration:none;}
+table,thead,tbody,tfoot,tr,th,td {border: 2px solid black; border-collapse:collapse;text-align: center;}
+ .subject1 {background-color:lightgray;} .subject2 {background-color:pink;}
+ .subject3 {background-color:red;}       .subject4 {background-color:orange;} 
+ .subject5 {background-color:yellow;}    .subject6 {background-color:green;}
+ .subject7 {background-color:blue;}      .subject8 {background-color:violet;}
+ th,td {width:50px;}
 /* for mobile */
 [class*="col-"] { width:100%; }
 @media only screen and (min-width: 600px) { /*For tablets: */
