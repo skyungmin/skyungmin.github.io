@@ -3,7 +3,7 @@
   [class*="col-"] { float:left; padding:10px; }
   section { background-color:#b5887ba6; }
    .float1 {float:left;}
-   div#division {border : solid 1px; height : 20%; width 20%; float:left;}
+   div#division {height : 20%; width 20%; float:left;}
   .imageOver::after {content:""; clear:both; display:table; }
   .bdcolor {border:1px solid gray;}
   .header, .footer { background-color:#c59581; color:dark; padding:10px; }
