@@ -3,6 +3,7 @@
   [class*="col-"] { float:left; padding:10px; }
   section { background-color:#b5887ba6; }
    .float1 {float:left;}
+   div#division {border : solid 1px; height : 20%; width 20%; float:left;}
   .imageOver::after {content:""; clear:both; display:table; }
   .bdcolor {border:1px solid gray;}
   .header, .footer { background-color:#c59581; color:dark; padding:10px; }
@@ -10,7 +11,7 @@
   .menu li { background-color:#c59581; color:black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px black; }
   .menu li hover { background-color:white; }
   .banner li { border:2px soikd black; padding:10px; margin-bottom:10px; box-shadow:0 1px 3px lightgray; }
-  .banner li img { background-color:#c59581 width:30%; vertical-align:middle; }
+  .banner li img { background-color:#c59581; width:30%; vertical-align:middle; }
   ul.char { list-style:none; }
   ul.char li:before { content:"*"; padding-right:0px; color:gray; }
   @media only screen and(max-width:768px) { [class*="col-"] {width:100%; }}
